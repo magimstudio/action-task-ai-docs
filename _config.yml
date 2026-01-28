@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: ActionTask AI
+description: Offline-first task manager with AI superpowers.
+logo: ../frontend/assets/images/app_logo_transparent.png
+show_downloads: true
