@@ -3,7 +3,7 @@
 **ActionTask AI** helps you manage your tasks offline with the power of AI breakdown and seamless Google Tasks synchronization.
 
 <div align="center">
-  <img src="../frontend/assets/images/app_logo_transparent.png" alt="ActionTask AI Logo" width="120" />
+  <img src="logo.png" alt="ActionTask AI Logo" width="120" />
 </div>
 
 ## Features
