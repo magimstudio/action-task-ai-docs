@@ -12,7 +12,7 @@ You agree not to use the App for any unlawful purpose.
 The App is provided "as is" without warranties of any kind.
 
 ## 4. Changes to Terms
-We may modify these Terms at any time. Continued use of the App constitutes acceptance of the changes.
+We may modify these Terms at any time. If you have any questions about these Terms, please contact us at [support@magim.online](mailto:support@magim.online).
 
 ## 5. Contact
-support@example.com
+support@magim.online

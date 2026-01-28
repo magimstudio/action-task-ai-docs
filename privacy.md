@@ -14,4 +14,4 @@ ActionTask AI ("we", "our", or "us") is committed to protecting your privacy. Th
 You can delete your local data and sign out at any time via the Settings screen ("Delete Account / Wipe Data"). This will remove all data stored on your device.
 
 ## 4. Contact Us
-If you have questions, please contact us at support@example.com
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [support@magim.online](mailto:support@magim.online).
