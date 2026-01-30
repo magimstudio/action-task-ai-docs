@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** 2024-01-27
+**Effective Date:** 2026-01-30
 
 ## 1. Introduction
 ActionTask AI ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle your data when you use our mobile application.

@@ -1,16 +1,17 @@
 # ActionTask AI
 
-**ActionTask AI** helps you manage your tasks offline with the power of AI breakdown and seamless Google Tasks synchronization.
+**ActionTask AI** helps you manage your tasks offline with the power of AI taskb reakdown and seamless Google Tasks synchronization.
 
 <div align="center">
   <img src="logo.png" alt="ActionTask AI Logo" width="120" />
 </div>
 
 ## Features
+- **Google Tasks Sync**: Sync with your Google Tasks account.
+- **AI Task Breakdown**: Break complex tasks into actionable steps.
+- **Apple Watch App**: View and manage your tasks on your Apple Watch.
+- **Search**: Find tasks quickly.
 - **Offline First**: Works without internet.
-- **AI Breakdown**: Break complex tasks into steps using Gemini.
-- **Google Sync**: Sync with your Google Tasks account.
-- **Cross-Platform**: Available on iOS and Android.
 
 ## Legal
 
