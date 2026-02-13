@@ -63,7 +63,7 @@ The AI analyzes the task and suggests subtasks. Review and confirm to add them.
 *   Book venue
 
 ### Watch App Not Working
-If the Watch app isn't installing or shows "Subscribe to Unlock" even after purchase:
+The Apple Watch companion lets you view tasks, create new ones, and update existing tasks directly from your wrist. If the Watch app isn't installing or shows "Subscribe to Unlock" even after purchase:
 
 *   **Check Connectivity**: Ensure your Apple Watch is connected to your iPhone and has Wi-Fi access.
 *   **Reinstall the App**: Delete the Watch app and reinstall it from the Watch app on your iPhone.
@@ -77,5 +77,4 @@ If the Watch app isn't installing or shows "Subscribe to Unlock" even after purc
 If you have any other questions, need assistance with your account, or want to report a bug, please contact our support team.
 
 **Email**: [support@magim.online](mailto:support@magim.online)
-
 
