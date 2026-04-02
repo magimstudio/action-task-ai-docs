@@ -1,6 +1,6 @@
 # ActionTask AI
 
-**ActionTask AI** helps you manage your tasks offline with the power of AI task breakdown and seamless Google Tasks synchronization.
+**ActionTask AI** helps you instantly capture your thoughts with voice from your wrist, organize them offline, and delegate tasks to your AI assistant. Backed with Google Tasks synchronization, plus AI powered task breakdown and search.
 
 <div align="center">
   <img src="logo.png" alt="ActionTask AI Logo" width="120" />
